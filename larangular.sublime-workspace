@@ -1,0 +1,242 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"slide",
+				"slide__close"
+			],
+			[
+				"cont",
+				"const"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/untitled",
+		"/Users/zloscowboys127/Downloads/ytupaleta.sql",
+		"/Users/zloscowboys127/Desktop/xZoom-master/example/js/setup.js",
+		"/Users/zloscowboys127/Desktop/xZoom-master/example/index.html",
+		"/Users/zloscowboys127/Desktop/translate_f.srt",
+		"/Users/zloscowboys127/Desktop/Los_Cowboys_S01_E01_cap.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/lamichoacanav2/gulpfile.js",
+		"/Users/zloscowboys127/Desktop/proyectos/la-michoacana/sql_michoacana copy 3.sql",
+		"/Applications/XAMPP/xamppfiles/htdocs/respaldoytupaleta/wp-config.php",
+		"/Users/zloscowboys127/Desktop/proyectos/la-michoacana/sql_michoacana copy 2.sql",
+		"/Users/zloscowboys127/Desktop/chatinglive.txt",
+		"/Users/zloscowboys127/Downloads/transfonter.org-20180822-180726/stylesheet.css",
+		"/Users/zloscowboys127/Desktop/tmp-portfolio-template-3-frank.php",
+		"/Users/zloscowboys127/Downloads/tmp-portfolio-template-3-frank.php",
+		"/Users/zloscowboys127/Downloads/slick-1.8.1/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/reveal/mobile/index.html",
+		"/Users/zloscowboys127/Downloads/reveal.js-master/demo.html",
+		"/Users/zloscowboys127/Downloads/reveal.js-master/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/mosonry/pagina-mason/index.htm",
+		"/Users/zloscowboys127/Downloads/ytupaleta.com-ssl_log-Jul-2018",
+		"/Applications/XAMPP/xamppfiles/htdocs/lamichoacanav2/public/images/ruleta/paletas (1).svg",
+		"/Users/zloscowboys127/Desktop/proyectos/la-michoacana/sql_michoacana.sql",
+		"/Users/zloscowboys127/Desktop/ruleta/paletas (1).svg",
+		"/private/var/folders/5x/1cq85f5d7j53_rt_wlbfb7yr0000gn/T/fz3temp-1/test.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/joe/my_project/respaldo env/.htaccess",
+		"/Users/zloscowboys127/Downloads/transfonter.org-20180628-204300/stylesheet.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/mosonry/pagina mason/index.htm",
+		"/Applications/XAMPP/xamppfiles/htdocs/mosonry/index.html",
+		"/Users/zloscowboys127/Desktop/proyectos/temas/tmp-portfolio-masonry-full-width-4-cols.php",
+		"/Users/zloscowboys127/Desktop/proyectos/temas/tmp-portfolio-masonry_mini.php",
+		"/private/var/folders/5x/1cq85f5d7j53_rt_wlbfb7yr0000gn/T/fz3temp-1/Charreria_dic1.htm",
+		"/private/var/folders/5x/1cq85f5d7j53_rt_wlbfb7yr0000gn/T/fz3temp-1/index 2.htm",
+		"/Users/zloscowboys127/Desktop/proyectos/decharros con analytics/test/index.htm",
+		"/private/var/folders/5x/1cq85f5d7j53_rt_wlbfb7yr0000gn/T/fz3temp-1/index_2014.htm",
+		"/Users/zloscowboys127/Desktop/proyectos/decharros con analytics/test/eventos/2018/Torneo_AniversarioCharrosElDorado2018.htm",
+		"/Users/zloscowboys127/Desktop/proyectos/decharros con analytics/test/index_2014.htm",
+		"/Users/zloscowboys127/Desktop/proyectos/decharros con analytics/index_2014.htm",
+		"/Users/zloscowboys127/Desktop/proyectos/decharros con analytics/index.htm",
+		"/Users/zloscowboys127/Downloads/Mobile-Detect-master/Mobile_Detect.php",
+		"/Users/zloscowboys127/Downloads/logo (1).svg",
+		"/Users/zloscowboys127/Desktop/basiko.svg",
+		"/Applications/XAMPP/htdocs/ngangular/src/app/app.component.html",
+		"/Users/zloscowboys127/Downloads/logo.svg",
+		"/Applications/XAMPP/xamppfiles/htdocs/lamichoacana/storage/logs/laravel.log",
+		"/Users/zloscowboys127/Desktop/joe/_old/index.html",
+		"/Users/zloscowboys127/Desktop/joe/_old/css/895e8aaa-b95b-448b-8165-081866324f5c.css"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/zloscowboys127/Desktop/laravel+angular/backend"
+		},
+		{
+			"path": "/Users/zloscowboys127/Desktop/laravel+angular/frontend"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 851.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 319.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
